@@ -27,7 +27,7 @@ The goal of this research is to thoroughly analyze car sales dataset to reveal v
 #### My Role
 As the lead data analyst, I was responsible for data collection, cleaning, and exploratory analysis. I employed statistical methods to build a predictive model. I also created visualizations and reports to present findings to directors.
 
-![image](https://github.com/user-attachments/assets/ff53dbe1-0470-4499-b2e5-7c560d18a9fb)
+![image](https://github.com/AdeniyiBen/My_Portfolio/blob/main/DASHBOARD.jpg)
 
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
