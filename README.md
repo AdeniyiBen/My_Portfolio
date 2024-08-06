@@ -33,7 +33,8 @@ The aim IS to analyze and present the opinions and feedback gathered from Nation
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Data Cleaning
-![cleaning](DASHBOARD.jpg)
+![cleaning](B4.png)
+![cleaning](af.png)
 
 
 
