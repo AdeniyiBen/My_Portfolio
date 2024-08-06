@@ -17,7 +17,7 @@
 - Created visualizations and reports to communicate findings to team members and stakeholders
 ## Projects
 ### Data-CAR SALES: TRENDS AND ANALYSIS
-/(https://drive.google.com/drive/folders/1_evVvioLyGotZ7QaLHPc9o14-P6fU1_N)
+![Bike Study](DASHBOARD.jpg)
 
 The goal of this research is to thoroughly analyze car sales dataset to reveal valuable insights. These insights will inform strategic decision making in car productions and determine the impact of various factors on sales performance 
 #### Objectives
