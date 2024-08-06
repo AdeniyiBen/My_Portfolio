@@ -17,8 +17,6 @@
 - Created visualizations and reports to communicate findings to team members and stakeholders
 ## Projects
 ### Data-CAR SALES: TRENDS AND ANALYSIS
-![Bike Study](DASHBOARD.jpg)
-
 The goal of this research is to thoroughly analyze car sales dataset to reveal valuable insights. These insights will inform strategic decision making in car productions and determine the impact of various factors on sales performance 
 #### Objectives
 - Identify sales trends and patterns
@@ -27,7 +25,7 @@ The goal of this research is to thoroughly analyze car sales dataset to reveal v
 #### My Role
 As the lead data analyst, I was responsible for data collection, cleaning, and exploratory analysis. I employed statistical methods to build a predictive model. I also created visualizations and reports to present findings to directors.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](DASHBOARD.jpg)
 
 ### NYSC DATA EVALUATION
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
