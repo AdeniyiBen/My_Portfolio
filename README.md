@@ -25,21 +25,15 @@ The goal of this research is to thoroughly analyze car sales dataset to reveal v
 #### My Role
 As the lead data analyst, I was responsible for data collection, cleaning, and exploratory analysis. I employed statistical methods to build a predictive model. I also created visualizations and reports to present findings to directors.
 
-![Bike Study](DASHBOARD.jpg)
+![dashboard](DASHBOARD.jpg)
 
 ### NYSC DATA EVALUATION
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 The aim IS to analyze and present the opinions and feedback gathered from National Youth Service Corps (NYSC) members during the 2024 Batch Stream 1 orientation course survey. The report aims to provide insights into various aspects of the NYSC program as perceived by the Corps members, thereby contributing to a better understanding of their experiences and perspectives.
-
-
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## DASHBOARD
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Data Cleaning
+![cleaning](DASHBOARD.jpg)
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
+
