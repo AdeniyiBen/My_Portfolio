@@ -29,9 +29,6 @@ As the lead data analyst, I was responsible for data collection, cleaning, and e
 
 ![image](https://github.com/AdeniyiBen/My_Portfolio/blob/main/DASHBOARD.jpg)
 
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### NYSC DATA EVALUATION
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 The aim IS to analyze and present the opinions and feedback gathered from National Youth Service Corps (NYSC) members during the 2024 Batch Stream 1 orientation course survey. The report aims to provide insights into various aspects of the NYSC program as perceived by the Corps members, thereby contributing to a better understanding of their experiences and perspectives.
