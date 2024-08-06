@@ -19,7 +19,7 @@
 ### Data-CAR SALES: TRENDS AND ANALYSIS
 [Link](https://drive.google.com/drive/folders/1_evVvioLyGotZ7QaLHPc9o14-P6fU1_N)
 
-The goal of this research is to thoroughly analyze car sales dataset to reveal valuable insights. These insights will inform strategic decision making in car productions and determine the impact of various factors on sales performance by Identify sales trends and patterns, Perform geographic analysis of sales data to identify high performing regions,Perform relationship between annual income and price by region.
+The goal of this research is to thoroughly analyze car sales dataset to reveal valuable insights. These insights will inform strategic decision making in car productions and determine the impact of various factors on sales performance by Identify sales trends and patterns, Perform geographic analysis of sales data to identify high performing regions, Perform relationship between annual income and price by region.
 ![image](https://github.com/user-attachments/assets/3ff092e4-2401-4814-b4d3-ebfd8b2e2153)
 
 ![image](https://github.com/user-attachments/assets/ff53dbe1-0470-4499-b2e5-7c560d18a9fb)
