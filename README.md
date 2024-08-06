@@ -6,30 +6,35 @@
 - B.Tech., Applied Geophysics | The Federal University of Teechnology, Akure (_March 2024_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Analysis Facilitator @ Kinplus Technologies (_2024 - Present_)**
+- Led workshops and training sessions on data analysis techniques and tools
+- Developed and delivered instructional materials, including presentations and hands-on exercises, to enhance participants' understanding of data analysis concepts
+- Provided one-on-one support to team members, addressing specific analytical challenges and offering solutions
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+**Data Analyst Intern @ Sabi Programmers (_2024 - Present_)**
+- Assisted in collecting, cleaning, and organizing data from various sources to ensure accuracy and completeness
+- Utilized analytical tools (e.g., Excel, SQL, Python) to perform data analysis and generate insights for ongoing projects
+- Created visualizations and reports to communicate findings to team members and stakeholders
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Data-CAR SALES: TRENDS AND ANALYSIS
+[Link](https://drive.google.com/drive/folders/1_evVvioLyGotZ7QaLHPc9o14-P6fU1_N)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The goal of this research is to thoroughly analyze car sales dataset to reveal valuable insights. These insights will inform strategic decision making in car productions and determine the impact of various factors on sales performance by Identify sales trends and patterns, Perform geographic analysis of sales data to identify high performing regions,Perform relationship between annual income and price by region.
+![image](https://github.com/user-attachments/assets/3ff092e4-2401-4814-b4d3-ebfd8b2e2153)
+
+![image](https://github.com/user-attachments/assets/ff53dbe1-0470-4499-b2e5-7c560d18a9fb)
+
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### NYSC DATA EVALUATION
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+The aim IS to analyze and present the opinions and feedback gathered from National Youth Service Corps (NYSC) members during the 2024 Batch Stream 1 orientation course survey. The report aims to provide insights into various aspects of the NYSC program as perceived by the Corps members, thereby contributing to a better understanding of their experiences and perspectives.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
+## DASHBOARD
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
