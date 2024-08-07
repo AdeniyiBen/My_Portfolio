@@ -15,6 +15,7 @@
 - Assisted in collecting, cleaning, and organizing data from various sources to ensure accuracy and completeness
 - Utilized analytical tools (e.g., Excel, SQL, Python) to perform data analysis and generate insights for ongoing projects
 - Created visualizations and reports to communicate findings to team members and stakeholders
+  
 ## Projects
 ### DATA-CAR SALES:TRENDS AND ANALYSIS ([Files](https://drive.google.com/drive/folders/1_evVvioLyGotZ7QaLHPc9o14-P6fU1_N))
 
@@ -50,6 +51,7 @@ The aim was to improve the quality of a retail sales dataset to ensure accurate 
 - Corrected Errors: Addressed data entry errors and outliers using automated scripts.
 #### Tools Used
 -  MS Excel (Power Query)
+  
 #### Outcome
 Delivered a clean, reliable dataset, ready for advanced analysis and reporting, resulting in improved data integrity and analytical efficiency.
 
