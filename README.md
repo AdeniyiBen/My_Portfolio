@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, MS Excel, PowerBI
 
 ## Education 			        		
-- B.Tech., Applied Geophysics | The Federal University of Teechnology, Akure (_March 2024_)
+- B.Tech, Applied Geophysics | The Federal University of Teechnology, Akure (_March 2024_)
 
 ## Work Experience
 **Data Analysis Facilitator @ Kinplus Technologies (_2024 - Present_)**
