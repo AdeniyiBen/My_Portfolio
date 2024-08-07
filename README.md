@@ -52,6 +52,7 @@ The aim was to improve the quality of a retail sales dataset to ensure accurate 
 -  MS Excel (Power Query)
 #### Outcome
 Delivered a clean, reliable dataset, ready for advanced analysis and reporting, resulting in improved data integrity and analytical efficiency.
+
 ![cleaning](B4.png)
 ![cleaning](af.png)
 
@@ -63,6 +64,7 @@ Analyze data to identify trends and performance metrics.
 
 #### Tools Used
 - SQL
+  
 ![DANNY](DANNY.png)
 
 
