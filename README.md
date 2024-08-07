@@ -36,6 +36,7 @@ The aim is to analyze and present the opinions and feedback gathered from Nation
 - Data Collection: Gathered customer reviews from various sources.
 - Preprocessing: Cleaned and preprocessed text data by removing stopwords, punctuation, and normalizing text.
 - Visualization: Created visualizations to represent sentiment trends and key insights.
+  
 #### Tools Used
 - MS Excel
 - PowerBI
@@ -49,6 +50,7 @@ The aim was to improve the quality of a retail sales dataset to ensure accurate 
 - Removed Duplicates: Eliminated redundant records to enhance dataset accuracy.
 - Standardized Formats: Consistent date formats and harmonized categorical data.
 - Corrected Errors: Addressed data entry errors and outliers using automated scripts.
+  
 #### Tools Used
 -  MS Excel (Power Query)
   
