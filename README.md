@@ -39,7 +39,7 @@ The aim is to analyze and present the opinions and feedback gathered from Nation
 
 ## DANNY DINNER WEEK([Files](https://drive.google.com/drive/folders/1qF3_MtzcEQXNX8O0SACtdIBJodff20B))
 ![DANNY](DANNY 2024-08-07 020049.png)
-![dashboard](DASHBOARD.jpg)
+![dashboard]()
 
 
 
