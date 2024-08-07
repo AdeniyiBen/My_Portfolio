@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, MS Excel, PowerBI
 
 ## Education 			        		
-- B.Tech, Applied Geophysics | The Federal University of Teechnology, Akure (_March 2024_)
+- B.Tech. Applied Geophysics | The Federal University of Teechnology, Akure (_March 2024_)
 
 ## Work Experience
 **Data Analysis Facilitator @ Kinplus Technologies (_2024 - Present_)**
@@ -45,7 +45,7 @@ The aim is to analyze and present the opinions and feedback gathered from Nation
 #### Outcome
 Generated actionable insights into Corpers' member sentiment, helping identify strengths and areas for improvement based on review analysis
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
 
 ### DATA CLEANING-PAYMENT ([Files](https://drive.google.com/drive/folders/1eLb3tvhhf2dR6_tkY0VrJ-gm65OjnjlA))
 The aim was to improve the quality of a retail sales dataset to ensure accurate and reliable analysis.
