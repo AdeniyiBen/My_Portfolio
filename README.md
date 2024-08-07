@@ -14,7 +14,7 @@
 **Data Analyst Intern @ Sabi Programmers (_2024 - Present_)**
 - Assisted in collecting, cleaning, and organizing data from various sources to ensure accuracy and completeness
 - Utilized analytical tools (e.g., Excel, SQL, Python) to perform data analysis and generate insights for ongoing projects
-- Created visualizations and reports to communicate findings to team members and stakeholders
+- Created visualizations and reports to communicate findings to team members and stakeholders.
   
 ## Projects
 ### DATA-CAR SALES:TRENDS AND ANALYSIS ([Files](https://drive.google.com/drive/folders/1_evVvioLyGotZ7QaLHPc9o14-P6fU1_N))
@@ -23,7 +23,7 @@ The goal of this research is to thoroughly analyze car sales dataset to reveal v
 #### Objectives
 - Identify sales trends and patterns
 - Perform geographic analysis of sales data to identify high performing regions
-- Perform relationship between annual income and price by region
+- Perform relationship between annual income and price by region.
 #### My Role
 As the lead data analyst, I was responsible for data collection, cleaning, and exploratory analysis. I employed statistical methods to build a predictive model. I also created visualizations and reports to present findings to the directors.
 
