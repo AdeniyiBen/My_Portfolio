@@ -28,9 +28,29 @@ The goal of this research is to thoroughly analyze car sales dataset to reveal v
 #### My Role
 As the lead data analyst, I was responsible for data collection, cleaning, and exploratory analysis. I employed statistical methods to build a predictive model. I also created visualizations and reports to present findings to the directors.
 
+#### Tools Used
+- MS Excel
+- PowerBI
+
 ![dashboard](DASHBOARD.jpg)
 
+### Fashion Metric  ([Files](https://drive.google.com/drive/folders/1LoihGf4wOzdDVg-qqYQzGvpfQFXs-xIX))
 
+The primary aim of this report is to analyze and visualize sales data to uncover trends, performance metrics, and actionable insights.
+
+#### Objectives
+- Identify top-performing retailers and State
+- Understand regional and monthly sales trends
+- Evaluate the effectiveness of different sales methods
+- Assess pricing strategies and their impact on sales
+  
+#### My Role
+As the lead data analyst, I was responsible for data collection, cleaning, and exploratory analysis. I employed statistical methods to build a predictive model. I also created visualizations and reports to present findings to the board.
+
+#### Tools Used
+- PowerBI
+  ![dashboard](DASHBOARD.jpg)
+  
 ### NYSC Data Evaluation ([File](https://drive.google.com/drive/folders/1itLjB3nIVSMvKq6ZorcbVlNxxj_w1iWS))
 The aim is to analyze and present the opinions and feedback gathered from National Youth Service Corps (NYSC) members during the 2024 Batch Stream 1 orientation course survey. 
 #### Key Tasks
