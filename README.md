@@ -49,7 +49,7 @@ As the lead data analyst, I was responsible for data collection, cleaning, and e
 
 #### Tools Used
 - PowerBI
-  ![dashboard](DASHBOARD.jpg)
+  ![dashboard](N,FASHION.png)
   
 ### NYSC Data Evaluation ([File](https://drive.google.com/drive/folders/1itLjB3nIVSMvKq6ZorcbVlNxxj_w1iWS))
 The aim is to analyze and present the opinions and feedback gathered from National Youth Service Corps (NYSC) members during the 2024 Batch Stream 1 orientation course survey. 
