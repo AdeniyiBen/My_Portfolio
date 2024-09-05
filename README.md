@@ -16,12 +16,12 @@
 - Utilized analytical tools (e.g., Excel, SQL, Python) to perform data analysis and generate insights for ongoing projects
 - Created visualizations and reports to communicate findings to team members and stakeholders.
 
-  **Social Media Manager @ Amplify (_2023 - 2024_)**
+**Social Media Manager @ Amplify (_2023 - 2024_)**
 - Content Creation, Strategy and Campaign Management
 - Platform Management and Engagement & Community Management
 - Created visualizations and reports to communicate findings to team members and stakeholders
 
-  **Data Analyst Intern @ Sabi Programmers (_2018 - present_)**
+**Data Analyst Intern @ Sabi Programmers (_2018 - present_)**
 - Design Church Materials: Develop brochures, flyers, and posters for events, services, and programs
 - Event Branding: Design promotional materials for special events such as fundraisers, community outreach programs, and seasonal services
 - Update Materials: Regularly update and refresh visual content to keep it relevant and engaging.
