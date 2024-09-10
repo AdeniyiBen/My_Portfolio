@@ -22,7 +22,7 @@
 - Platform Management and Engagement & Community Management
 - Created visualizations and reports to communicate findings to team members and stakeholders
 
-**Data Analyst Intern @ Sabi Programmers (_2018 - present_)**
+**Data Analyst Intern @ RICHEM (_2018 - present_)**
 - Design Church Materials: Develop brochures, flyers, and posters for events, services, and programs
 - Event Branding: Design promotional materials for special events such as fundraisers, community outreach programs, and seasonal services
 - Update Materials: Regularly update and refresh visual content to keep it relevant and engaging.
