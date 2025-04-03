@@ -1,5 +1,5 @@
 # Data Analyst 
-[Linkedln](https://www.linkedin.com/in/benjamin-adeniyi-84336021a/) , [CV](https://docs.google.com/document/d/1CogMla04UdrMGsf3EkZYbkmOiqXb4ZmA6Dmria5M9hU/edit?tab=t.0) 
+[Linkedln](https://www.linkedin.com/in/benjamin-adeniyi-84336021a/) , [CV](https://drive.google.com/file/d/1iCzuKWNvBr3xXOKHcKW_M77KSf58x99T/view?usp=sharing) 
 
 #### Technical Skills: Python, SQL, MS Excel, PowerBI
 
