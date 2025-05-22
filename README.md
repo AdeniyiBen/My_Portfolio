@@ -53,7 +53,7 @@ Support the development and implementation of the procurement system by designin
 ![dashboard](Material.png)
 ![dashboard](Plant.png)
 
-### PRODUCT ANALYSIS ([Files](https://drive.google.com/file/d/12ywT0VU3BCWdjjQRbaqOiPz_c5uig5Xr/view?usp=sharing))
+### Product Analysis ([Files](https://drive.google.com/file/d/12ywT0VU3BCWdjjQRbaqOiPz_c5uig5Xr/view?usp=sharing))
 To enhance data quality and analytical reporting on the products table by cleaning, standardizing, and deriving meaningful insights to support better inventory and sales decision-making.
 #### Objective
 - Data Cleaning and Standardization
