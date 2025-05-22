@@ -10,9 +10,14 @@
 **Data Analysis Facilitator @ Kinplus Technologies (_2024 - Present_)**
 - Led workshops and training sessions on data analysis techniques and tools
 - Developed and delivered instructional materials, including presentations and hands-on exercises, to enhance participants' understanding of data analysis concepts
-- Provided one-on-one support to team members, addressing specific analytical challenges and offering solutions
+- Provided one-on-one support to team members, addressing specific analytical challenges and offering solutions.
 
-**Data Analyst Intern @ Sabi Programmers (_2024 - Present_)**
+  **Graphics Designer @ RICHEM (_2018 - present_)**
+- Design Church Materials: Develop brochures, flyers, and posters for events, services, and programs
+- Event Branding: Design promotional materials for special events such as fundraisers, community outreach programs, and seasonal services
+- Update Materials: Regularly update and refresh visual content to keep it relevant and engaging.
+
+**Data Analyst Intern @ Sabi Programmers (_2024 - 2025_)**
 - Assisted in collecting, cleaning, and organizing data from various sources to ensure accuracy and completeness
 - Utilized analytical tools (e.g., Excel, SQL, Python) to perform data analysis and generate insights for ongoing projects
 - Created visualizations and reports to communicate findings to team members and stakeholders.
@@ -22,13 +27,28 @@
 - Platform Management and Engagement & Community Management
 - Created visualizations and reports to communicate findings to team members and stakeholders
 
-**Graphics Designer @ RICHEM (_2018 - present_)**
-- Design Church Materials: Develop brochures, flyers, and posters for events, services, and programs
-- Event Branding: Design promotional materials for special events such as fundraisers, community outreach programs, and seasonal services
-- Update Materials: Regularly update and refresh visual content to keep it relevant and engaging.
-
   
 ## Projects
+
+### Supplier Quality Analysis ([Files](https://drive.google.com/file/d/1hQmO7iMxGymsAovIdMgpWyVI4OpoAfVA/view?usp=sharing))
+
+The goal of this research is to establish a procurement system that enables the company to effectively track and evaluate supplier performance, ensuring the consistent delivery of high-quality goods. 
+#### Objectives
+- Analyze which vendors/plants are causing the greatest defect quantity
+- Analyze which vendors/plants are causing the greatest downtime
+- Is there a particular combination of material and vendor that perform poorly
+- Is there a particular combination of Vendor and plant that performs poorly
+- How does the same vendor and material perform across different plants
+  
+#### My Role
+Support the development and implementation of the procurement system by designing data collection and analysis processes that track supplier performance. This includes identifying key quality metrics, analyzing procurement and supplier data to uncover trends, and generating actionable insights to inform purchasing decisions and supplier evaluations.
+
+#### Tools Used
+- MS Excel
+- PowerBI
+
+![dashboard](Overview.png)
+![dashboard](Overview.png)
 ### Car Sales:Trends And Analysis ([Files](https://drive.google.com/drive/folders/1_evVvioLyGotZ7QaLHPc9o14-P6fU1_N))
 
 The goal of this research is to thoroughly analyze car sales dataset to reveal valuable insights. These insights will inform strategic decision making in car productions and determine the impact of various factors on sales performance 
