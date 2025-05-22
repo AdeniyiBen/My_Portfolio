@@ -47,8 +47,30 @@ Support the development and implementation of the procurement system by designin
 - MS Excel
 - PowerBI
 
+![dashboard](relationship.png)
 ![dashboard](Overview.png)
-![dashboard](Overview.png)
+![dashboard](Impact.png)
+![dashboard](Material.png)
+![dashboard](Plant.png)
+
+### PRODUCT ANALYSIS ([Files](https://drive.google.com/file/d/12ywT0VU3BCWdjjQRbaqOiPz_c5uig5Xr/view?usp=sharing))
+To enhance data quality and analytical reporting on the products table by cleaning, standardizing, and deriving meaningful insights to support better inventory and sales decision-making.
+#### Objective
+- Data Cleaning and Standardization
+- Data Quality Assessment
+- Product Pricing Insights
+- Sales Performance Filtering
+- Redundant Query Validation
+#### My Role
+As a Data Analyst, I cleaned, transformed, and analyzed product data using SQL to ensure data quality, uncover pricing and sales insights, and support strategic decision-making.
+
+#### Tools Used
+- SQL
+  
+![DA](1sql.png)
+![DA](2 sql.png)
+![DA](3sql.png)
+
 ### Car Sales:Trends And Analysis ([Files](https://drive.google.com/drive/folders/1_evVvioLyGotZ7QaLHPc9o14-P6fU1_N))
 
 The goal of this research is to thoroughly analyze car sales dataset to reveal valuable insights. These insights will inform strategic decision making in car productions and determine the impact of various factors on sales performance 
