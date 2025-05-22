@@ -12,7 +12,7 @@
 - Developed and delivered instructional materials, including presentations and hands-on exercises, to enhance participants' understanding of data analysis concepts
 - Provided one-on-one support to team members, addressing specific analytical challenges and offering solutions.
 
-  **Graphics Designer @ RICHEM (_2018 - present_)**
+**Graphics Designer @ RICHEM (_2018 - present_)**
 - Design Church Materials: Develop brochures, flyers, and posters for events, services, and programs
 - Event Branding: Design promotional materials for special events such as fundraisers, community outreach programs, and seasonal services
 - Update Materials: Regularly update and refresh visual content to keep it relevant and engaging.
